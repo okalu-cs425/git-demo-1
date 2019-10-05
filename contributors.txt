@@ -9,4 +9,9 @@ List of contributors:
 5. Caio S. Hoffmann (c***nn@mum.edu)
 6. John Imhonikhe Lawal (j*****l@mum.edu)
 7. Davaabayar Battogtokh (d*****kh@mum.edu)
+<<<<<<< HEAD
 8. Ahmed 
+=======
+8. John Smith
+
+>>>>>>> f6e8bb77987bfe2d2e61c08937a952d9f4eec112
